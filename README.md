@@ -5,4 +5,5 @@ Criei uma landing page do Spotify como forma de aprimorar minhas habilidades em 
 ## 👥 Social Network
 
 Instagram: https://instagram.com/022.marquess
+
 Discord: https://discord.com/users/1083817459649347694
