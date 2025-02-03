@@ -4,6 +4,6 @@ Criei uma landing page do Spotify como forma de aprimorar minhas habilidades em 
 
 ## 👥 Social Network
 
-Instagram: https://instagram.com/022.marquess
+<a href="https://instagram.com/022.marquess" target="_blank"><img alt="Seguidores" title="Me siga no Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 Discord: https://discord.com/users/1083817459649347694
